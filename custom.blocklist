@@ -1,3 +1,24 @@
+#extra blockage
+||app.musemuse.cn^$important
+||wdscylla.de^$important
+||ads.servenobid.com^$important
+||device-metrics-us.amazon.com.local^$important
+
+#spammy or free TLDs get blocked. cant be much of use hosted on these
+#freetlds .TK / .ML / .GA / .CF / .GQ
+.tk
+.ml
+.ga
+.cf
+.gq
+
+#spammy
+.club
+.xyz
+.icu
+.cyou
+
+
 #other stuff to block
 
 data.microsoft.com
